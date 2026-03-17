@@ -97,7 +97,7 @@ Pickers: DateRangePicker
 
 Uploads: Dropzone.js
 
-Alerts: SweetAlert2
+
 
 📝 Lisensi
 Proyek ini bersifat open-source di bawah lisensi MIT license.
