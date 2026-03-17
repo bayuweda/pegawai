@@ -32,7 +32,7 @@ Pastikan perangkat Anda telah terpasang:
 
 ### 2. Kloning Repository
 ```bash
-git clone [https://github.com/bayuweda/pegawai.git](https://github.com/bayuweda/pegawai.git)
+git clone https://github.com/bayuweda/pegawai.git
 cd pegawai
 3. Instalasi Dependensi
 Instal semua paket PHP melalui Composer dan library JavaScript melalui NPM:
