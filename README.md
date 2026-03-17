@@ -14,7 +14,7 @@ Aplikasi berbasis web untuk mengelola data pegawai secara efisien. Proyek ini di
 - **Smart DataTables**: Pencarian dan pagination yang tetap stabil di perangkat mobile.
 - **Advanced Filtering**: Filter data berdasarkan rentang tanggal masuk yang responsif.
 - **Modern File Upload**: Integrasi **Dropzone.js** untuk unggah foto pegawai yang interaktif.
-- **UX/UI Modern**: Menggunakan **SweetAlert2** untuk notifikasi cantik dan **Select2** untuk dropdown yang cerdas.
+- **UX/UI Modern
 - **Mobile Friendly**: Tabel didesain dengan fitur *horizontal scroll* agar tetap rapi di layar HP tanpa mengganggu navigasi pencarian.
 
 ---
